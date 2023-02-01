@@ -2,6 +2,6 @@ this is text file
 this line is added using the githu
 the third line of the file
 
-learning index
-undoing commit
-one more new line
+
+
+feature branch of git
