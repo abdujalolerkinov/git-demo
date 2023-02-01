@@ -3,3 +3,5 @@ this line is added using the githu
 the third line of the file
 
 feature branch of git
+
+branch conflict resolving
