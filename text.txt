@@ -5,3 +5,4 @@ the third line of the file
 feature branch of git
 
 branch conflict resolving
+git course
