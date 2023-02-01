@@ -5,4 +5,3 @@ the third line of the file
 learning index
 undoing commit
 one more new line
-!-----------------!
