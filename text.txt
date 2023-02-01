@@ -6,3 +6,5 @@ feature branch of git
 
 branch conflict resolving
 git course
+
+practicing tags
